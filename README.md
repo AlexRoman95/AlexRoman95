@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex Roman
 
-<!--
-**AlexRoman95/AlexRoman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student | 🛡️ Security+ in Progress  
+💻 Currently learning Splunk, Wireshark, Linux, and Python  
+📚 Completed Cybersecurity Bootcamp (2022)  
+🔍 Focused on SOC analysis, log monitoring, and vulnerability scanning  
+🌱 Building my first home lab and documenting my journey on GitHub
 
-Here are some ideas to get you started:
+## 🧠 What I’m Working On
+- Building a home lab (VirtualBox + Kali Linux + Ubuntu)
+- Learning Nmap and basic network scanning
+- Practicing log analysis and SIEM basics
+- Creating writeups for TryHackMe challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/alexander-roman-83834993/)
